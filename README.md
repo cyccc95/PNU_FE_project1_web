@@ -1,5 +1,5 @@
-# 반응형 웹
-### 웹서비스
+# Responsive web
+### Web service
 + https://cyccc95.github.io/PNU_FE_project1_web/
 ### HTML
 + Semantic Tag
